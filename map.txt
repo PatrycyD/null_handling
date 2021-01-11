@@ -1,0 +1,11 @@
+0	fixed_acidity	q
+1	volatile_acidity	q
+2	citric_acid	q
+3	residual_sugar	q
+4	chlorides	q
+5	free_sulfur_dioxide	q
+6	total_sulfur_dioxide	q
+7	density	q
+8	pH	q
+9	sulphates	q
+10	alcohol	q
